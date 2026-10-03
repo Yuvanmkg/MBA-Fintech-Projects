@@ -1,0 +1,6 @@
+{
+  "name": "FinTech MBA Lab: Projects & Core Concepts",
+  "description": "Comprehensive FinTech project guide, interactive financial simulators, and in-depth conceptual masterclasses tailored for MBA Finance students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
